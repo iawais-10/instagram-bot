@@ -103,6 +103,3 @@ Appilot builds custom mobile automation systems around real-device fleets, opera
 
 **Website:** https://www.appilot.app/
 
-## Responsible Use
-
-Use this project only with accounts, devices, data and workflows you are authorized to manage. Respect platform terms, applicable laws, privacy requirements and rate limits. See [RESPONSIBLE-USE.md](RESPONSIBLE-USE.md).
