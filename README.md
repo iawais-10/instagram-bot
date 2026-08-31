@@ -42,7 +42,6 @@ flowchart LR
   BRIDGE --> HEALTH[Device Health]
 ```
 
-For a component-by-component explanation, see [ARCHITECTURE.md](ARCHITECTURE.md).
 
 ## Workflow
 
